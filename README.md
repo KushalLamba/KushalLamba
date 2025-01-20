@@ -18,11 +18,11 @@
 
 <h2 align="center">💬 Let's Connect</h2>
 <div align="center"> 
-    <a href="mailto:kushalyadav@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/kushal-yadav-yadav-580722333" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/KushalLamba" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://KushalLamba.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>

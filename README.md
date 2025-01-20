@@ -38,11 +38,6 @@
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake </h2>
-<div align="center">
-    <img src="https://github.com/KushalLamba/KushalLamba/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
-</div>
-
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
     <img width="380" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KushalLamba&count_private=true&theme=vue&border_radius=10" alt="GitHub Streak Stats"/>
